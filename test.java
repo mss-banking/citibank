@@ -1,3 +1,5 @@
+HELLLoo
+EVERYONE
 im updated for practising rebase
 <<<<<<< HEAD
 im updating this file
