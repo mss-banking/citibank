@@ -1,14 +1,4 @@
-echo"im working on rebase"
-HELLLoo
-EVERYONE
-im updated for practising rebase
-<<<<<<< HEAD
-im updating this file
-=======
-IM PRACTISING ON MERGE
-AND ALSO PULL
+THIS IS FROM TEST .JAVA FILE
 im updating the file,for my practice
->>>>>>> e53507e (IM USING FOR CHECKING MERGE AND PULL COMMAND)
->>>>>>> stage
 hello everyone
-hi to all
+
